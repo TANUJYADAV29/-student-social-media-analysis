@@ -1,4 +1,4 @@
-# 📊 Student Social Media Analysis – Excel Dashboard
+[# 📊 Student Social Media Analysis – Excel Dashboard
 
 This project explores the impact of social media usage on students' mental health, academic performance, sleep, and conflict patterns. 
 
@@ -21,5 +21,6 @@ This project explores the impact of social media usage on students' mental healt
 - Higher addiction scores correlate with poor mental health.
 - Increased daily usage reduces sleep hours.
 - Single students report higher conflict patterns.
-![Dashboard Preview](https://raw.githubusercontent.com/TANUJYADAV29/your-repo-name/main/dashboard_preview.png)
+![Dashboard Preview][https://raw.githubusercontent.com/TANUJYADAV29/your-repo-name/main/dashboard_preview.png](https://github.com/TANUJYADAV29/-student-social-media-analysis/blob/main/Dashboard_preview.png?raw=true)
 > 📥 Download the Excel file from this repo and explore interactive dashboards.
+](https://github.com/TANUJYADAV29/-student-social-media-analysis/blob/main/Dashboard_preview.png?raw=true)
