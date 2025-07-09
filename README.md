@@ -21,5 +21,5 @@ This project explores the impact of social media usage on students' mental healt
 - Higher addiction scores correlate with poor mental health.
 - Increased daily usage reduces sleep hours.
 - Single students report higher conflict patterns.
-
+![Dashboard Preview](https://raw.githubusercontent.com/TANUJYADAV29/your-repo-name/main/dashboard_preview.png)
 > 📥 Download the Excel file from this repo and explore interactive dashboards.
